@@ -15,3 +15,5 @@ library(ggplot2)
 library(wesanderson)
 
 Please also make sure to source the code and when your code exports plots, the directory is writable. 
+
+Thank you for letting me know your comments and issues!
